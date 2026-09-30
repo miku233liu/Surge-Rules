@@ -1,0 +1,111 @@
+# Surge Local Rule Set
+# QQ/Tencent + Meituan + Douyin + Taobao/Alibaba + JD + Alipay + Xiaohongshu + Amap + Bilibili
+# Policy is intentionally omitted. Use this file with DIRECT in [Rule].
+
+# QQ / Tencent
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,weiyun.com
+
+# Meituan / Dianping
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,meituan.com.cn
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,dianping.cn
+DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,sankuai.info
+DOMAIN-SUFFIX,maoyan.com
+
+# Douyin / ByteDance
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,volces.com
+
+# Taobao / Tmall / Alibaba
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,taobao.org
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,alicdn.net
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,etao.com
+DOMAIN-SUFFIX,xiami.com
+
+# JD
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.cn
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdcloud.com
+DOMAIN-SUFFIX,jdcloudcs.com
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jcloudcs.com
+DOMAIN-SUFFIX,jingdong.com
+DOMAIN-SUFFIX,jingxi.com
+
+# Alipay / Ant
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alipay.net
+DOMAIN-SUFFIX,antgroup.com
+DOMAIN-SUFFIX,antfin.com
+DOMAIN-SUFFIX,antfortune.com
+DOMAIN-SUFFIX,蚂蚁.com
+
+# Xiaohongshu / RED
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,redcdn.cn
+
+# Amap / Gaode
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,amapauto.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,gaode.com
+DOMAIN-SUFFIX,gaode.cn
+
+# Bilibili
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,bilicomics.com
